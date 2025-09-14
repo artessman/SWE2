@@ -1,16 +1,15 @@
 # SWE2
 Repo for SWE2 Projects
 
-
 # Example README.md
 
-This is an Example of a **README.md** file
+This is an example of a **README.md** file
 
-> “This is a quated segemtent of text”
+> “This is a quoted segemtent of text”
 
 ## Introduction
 
-This `README.md` is for thes repostiory containing our SWE2 projects.
+This `README.md` is for the repostiory containing our SWE2 projects.
 
 *This is how to italicize*
 

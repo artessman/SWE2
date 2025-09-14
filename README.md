@@ -10,11 +10,11 @@ This is an Example of a **README.md** file
 
 ## Introduction
 
-This `README.md` is for thes repostiory contiuang our SWE2 projects.
+This `README.md` is for thes repostiory containing our SWE2 projects.
 
-*this is how to italicise*
+*This is how to italicize*
 
-**THis is how to bold words** 
+**This is how to bold words** 
 
 ## List
 
